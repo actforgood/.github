@@ -15,3 +15,8 @@ labels: enhancement
 
 **Additional context**
 <!--- Add any other context or screenshots about the feature request here -->
+
+--- 
+<!--- Please leave the below text unchanged --> 
+Thank you for taking the time to request this feature!  
+By submitting it, you consent to comply with the [Code of Conduct](https://raw.githubusercontent.com/actforgood/.github/main/CODE_OF_CONDUCT.md).
